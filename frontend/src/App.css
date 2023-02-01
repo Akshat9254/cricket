@@ -1,0 +1,15 @@
+.css-1dvyrf1-MuiButtonBase-root-MuiTab-root {
+  border: 2px solid #d9cb1a !important;
+  border-radius: 8px !important;
+  margin-right: 8px;
+  /* -webkit-box-shadow: 0px 0px 74px 8px rgba(217, 203, 26, 0.58);
+  -moz-box-shadow: 0px 0px 74px 8px rgba(217, 203, 26, 0.58);
+  box-shadow: 0px 0px 74px 8px rgba(217, 203, 26, 0.58); */
+}
+.css-1wf8b0h-MuiTabs-flexContainer {
+  gap: 16px;
+  padding: 0 16px;
+  /* position: relative;
+  top: 30px;
+  z-index: 1000; */
+}
